@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "A6_GSM")(type "Legacy")(uri "${KIPRJMOD}/A6_GSM.lib")(options "")(descr ""))
+  (lib (name "pastaisitie_simboli")(type "Legacy")(uri "${KIPRJMOD}/pastaisitie_simboli.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "LOCAL")(type "Legacy")(uri "${KIPRJMOD}/LOCAL.lib")(options "")(descr ""))
+  (lib (name "NEO-6M-GPS")(type "Legacy")(uri "${KIPRJMOD}/apzimejumi/NEO-6M-GPS.lib")(options "")(descr ""))
+  (lib (name "test")(type "KiCad")(uri "${KIPRJMOD}/apzimejumi.pretty/test.kicad_sym")(options "")(descr ""))
+)

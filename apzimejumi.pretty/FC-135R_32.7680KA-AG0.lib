@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# FC-135R_32.7680KA-AG0
+#
+DEF FC-135R_32.7680KA-AG0 Y 0 40 Y N 1 L N
+F0 "Y" -150 150 50 H V L BNN
+F1 "FC-135R_32.7680KA-AG0" -150 -201 50 H V L BNN
+F2 "XTAL_FC-135R_32.7680KA-AG0" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "SEIKO EPSON CORPORATION" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "Manufacturer recommendations" 0 0 50 H I L BNN "STANDARD"
+F6 "" 0 0 50 H I L BNN "PARTREV"
+DRAW
+P 2 0 0 6 -50 70 -50 -70 N
+P 2 0 0 6 50 -70 50 70 N
+P 2 0 0 6 -30 50 30 50 N
+P 2 0 0 6 30 50 30 -50 N
+P 2 0 0 6 30 -50 -30 -50 N
+P 2 0 0 6 -30 -50 -30 50 N
+X ~ 1 -150 0 100 R 40 40 0 0 P 
+X ~ 2 150 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
