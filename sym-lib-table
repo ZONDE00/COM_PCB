@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "A6_GSM")(type "KiCad")(uri "C:/Users/Rodrigo_Laurinovics/Downloads/COM/apzimejumi.pretty/A6_GSM.kicad_sym")(options "")(descr ""))
+  (lib (name "schematics")(type "KiCad")(uri "${KIPRJMOD}/schematics/schematics.kicad_sym")(options "")(descr ""))
+)
