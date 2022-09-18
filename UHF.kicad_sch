@@ -170,6 +170,230 @@
         )
       )
     )
+    (symbol "Device:RFShield_OnePiece" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "J" (id 0) (at 0 5.08 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "RFShield_OnePiece" (id 1) (at 0 2.54 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (id 2) (at 0 -2.54 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (id 3) (at 0 -2.54 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "RF EMI shielding cabinet" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "One-piece EMI RF shielding cabinet" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "RFShield_OnePiece_0_1"
+        (polyline
+          (pts
+            (xy -15.24 -5.08)
+            (xy -15.24 -2.54)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -15.24 -1.27)
+            (xy -15.24 1.27)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -15.24 2.54)
+            (xy -15.24 5.08)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -12.7 7.62)
+            (xy -10.16 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -10.16 -7.62)
+            (xy -12.7 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -6.35 -7.62)
+            (xy -8.89 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -6.35 7.62)
+            (xy -8.89 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -7.62)
+            (xy -5.08 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 7.62)
+            (xy -5.08 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 -7.62)
+            (xy 1.27 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 7.62)
+            (xy -1.27 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 2.54 -7.62)
+            (xy 5.08 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.08 7.62)
+            (xy 2.54 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 6.35 -7.62)
+            (xy 8.89 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 8.89 7.62)
+            (xy 6.35 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 10.16 -7.62)
+            (xy 12.7 -7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 12.7 7.62)
+            (xy 10.16 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 15.24 -5.08)
+            (xy 15.24 -2.54)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 15.24 -1.27)
+            (xy 15.24 1.27)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 15.24 2.54)
+            (xy 15.24 5.08)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -15.24 6.35)
+            (xy -15.24 7.62)
+            (xy -13.97 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -13.97 -7.62)
+            (xy -15.24 -7.62)
+            (xy -15.24 -6.35)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 13.97 -7.62)
+            (xy 15.24 -7.62)
+            (xy 15.24 -6.35)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 15.24 6.35)
+            (xy 15.24 7.62)
+            (xy 13.97 7.62)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+      )
+      (symbol "RFShield_OnePiece_1_1"
+        (pin passive line (at 0 -10.16 90) (length 2.54)
+          (name "Shield" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
     (symbol "Device:R_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (id 0) (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -628,7 +852,6 @@
     )
   )
 
-
   (junction (at 246.38 32.258) (diameter 0) (color 0 0 0 0)
     (uuid 1bdd064d-4af3-4cd0-abb3-26ba4c3eb54b)
   )
@@ -676,6 +899,7 @@
   )
 
   (no_connect (at 82.931 41.783) (uuid 5a5b30df-2e7d-4d98-b02d-44a97b60c116))
+  (no_connect (at 88.265 57.023) (uuid 746890f8-5099-4b0f-9e61-3afcc3012c43))
   (no_connect (at 62.611 46.863) (uuid 8fe916b5-34fe-4dad-b3be-dfbdab6de009))
   (no_connect (at 114.3 38.608) (uuid a65557d8-52c6-4f57-8b2e-f023e0118580))
 
@@ -1393,10 +1617,6 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 59e8b216-bdba-4962-b304-b6a73f514294)
   )
-  (hierarchical_label "GPIO1" (shape input) (at 88.265 57.023 0)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 5c8a6662-d632-4424-a65e-704f95da702c)
-  )
   (hierarchical_label "GPIO0" (shape input) (at 88.265 54.483 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 638e63a1-1cd1-406e-b784-aba85158f798)
@@ -1514,6 +1734,24 @@
     (pin "1" (uuid 378706b5-f855-4a08-80af-10fcfa91d973))
   )
 
+  (symbol (lib_id "Device:RFShield_OnePiece") (at 218.44 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 30d5e85d-90f3-4e64-9a51-c21fd60d8e12)
+    (property "Reference" "J8" (id 0) (at 234.95 90.1699 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "BMI-S-205-C" (id 1) (at 234.95 92.7099 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "RF_Shielding:Laird_Technologies_BMI-S-205-F_38.10x25.40mm" (id 2) (at 218.44 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 218.44 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 8f7ccfe6-e4b7-4d0a-a099-26f0ae7a257b))
+  )
+
   (symbol (lib_id "Device:C_Small") (at 202.946 29.718 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 30fc2f8b-178e-4de3-a795-7a4d3581c6d0)
@@ -1531,6 +1769,22 @@
     )
     (pin "1" (uuid ea0aa2ed-5ecd-449f-ad28-78fc56fddcfb))
     (pin "2" (uuid 2818d431-94ef-44e0-acee-4253c79ccb85))
+  )
+
+  (symbol (lib_id "power:GND") (at 218.44 101.6 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 3e77608a-cff7-4e20-bed7-49e3f8869b7b)
+    (property "Reference" "#PWR0136" (id 0) (at 218.44 107.95 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (id 1) (at 218.44 106.68 0))
+    (property "Footprint" "" (id 2) (at 218.44 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 218.44 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d5d1beac-069e-48e8-8f03-143167dbea6a))
   )
 
   (symbol (lib_id "Device:C_Small") (at 185.42 91.948 270) (unit 1)
@@ -1864,7 +2118,7 @@
     (uuid 9c15951b-6315-48bf-a9f2-a0e0b257963f)
     (property "Reference" "U1" (id 0) (at 63.881 30.353 0))
     (property "Value" "SI4463" (id 1) (at 66.421 32.893 0))
-    (property "Footprint" "" (id 2) (at 72.771 18.923 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias" (id 2) (at 72.771 18.923 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/Si4464-63-61-60.pdf" (id 3) (at 65.151 51.943 0)
