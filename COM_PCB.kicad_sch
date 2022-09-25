@@ -597,14 +597,17 @@
     (path "/ac8ba6b5-2b9a-4479-9e6b-8e4614dd9923/3e77608a-cff7-4e20-bed7-49e3f8869b7b"
       (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/e56dc216-a147-4731-9a84-162c7aff69ac"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
     (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/fd45378f-ee88-4b60-b58b-abf4fca92aac"
       (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/d19b334f-c82b-420f-ba8c-3c67f465da97"
-      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/52a3ba64-57ef-482b-b6e4-194cc022e338"
+      (reference "#PWR0139") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/41521b70-bd90-4079-8998-ea0d9f659997"
-      (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
+    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/74a41928-4859-4248-a153-3907ba76e719"
+      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
     )
     (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/a00d42f1-bca8-4e93-b546-c439a7ddbc69"
       (reference "#PWR0143") (unit 1) (value "+3.3V") (footprint "")
@@ -687,11 +690,8 @@
     (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/de585b49-688f-403d-adcd-6e4dc513606b"
       (reference "C24") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/56d76502-ea84-40ab-8b33-14c2571fc4f4"
-      (reference "C27") (unit 1) (value "12.5pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/4f3144e9-97d2-4e0b-8a46-40e59d8746aa"
-      (reference "C29") (unit 1) (value "12.5pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/bdb51198-2d1c-4b50-b078-beaf8af08b2b"
+      (reference "C25") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/02597aac-03f4-47a2-865c-2ed0906c1989/bcbff7ba-f4ee-4513-9ec8-48d9182037df"
       (reference "C30") (unit 1) (value "4.7uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -811,10 +811,10 @@
       (reference "U4") (unit 1) (value "STM32G071GBU") (footprint "Package_DFN_QFN:QFN-28_4x4mm_P0.5mm")
     )
     (path "/ac8ba6b5-2b9a-4479-9e6b-8e4614dd9923/6ba98ab3-811d-4be9-9492-2d086edcbaac"
-      (reference "X1") (unit 1) (value "TCXO 30 MHz") (footprint "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm")
+      (reference "X1") (unit 1) (value "TCXO 30 MHz") (footprint "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm")
     )
-    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/750a6438-63d7-469a-ac26-30c93b61923c"
-      (reference "Y1") (unit 1) (value "FC-135R_32.7680KA-AG0") (footprint "footprints:XTAL_FC-135R_32.7680KA-AG0")
+    (path "/c2e7f095-aead-48f0-9254-2b1d569efe5c/776de0ac-80ef-4388-926b-d1d9c2cea589"
+      (reference "Y1") (unit 1) (value "TG-3541CE") (footprint "footprints:Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm")
     )
   )
 )

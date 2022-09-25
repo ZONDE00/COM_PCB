@@ -1,4 +1,4 @@
-20247788665569223
+20249456479404812
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85795,6 +85795,13 @@ footprints
 MOLEX_78800-0001
 
 
+0
+10
+10
+footprints
+Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm
+SMD TCXO, https://www5.epsondevice.com/en/products/crystal_oscillator/tg3541ce.html
+smd tcxo
 0
 10
 10

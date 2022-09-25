@@ -1955,7 +1955,7 @@
     (property "Value" "TCXO 30 MHz" (id 1) (at 124.46 28.448 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm" (id 2) (at 149.86 47.498 0)
+    (property "Footprint" "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm" (id 2) (at 149.86 47.498 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.metatech.com.hk/product/fordahl/pdf/2002%20TCXO%20Page%2043-58.pdf" (id 3) (at 119.38 38.608 0)
