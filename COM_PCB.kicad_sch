@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (date "%%date%%")
+    (rev "%%version%%")
+    (company "BASEMENT")
+  )
   (lib_symbols
   )
 
